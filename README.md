@@ -19,7 +19,7 @@ This are all the languages i used and i learnt:
 <!-- Advanced-orange, Intermediate-yellow, Beginner-blue -->
 
 ![Java](https://img.shields.io/badge/Java-Advanced-orange)
-![C](https://img.shields.io/badge/C++-Intermediate-yellow)
+![C](https://img.shields.io/badge/C-Intermediate-yellow)
 ![C++](https://img.shields.io/badge/C++-Intermediate-orange)
 ![Python](https://img.shields.io/badge/Python-Beginner-blue)
 
