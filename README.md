@@ -26,7 +26,7 @@ This are all the languages i used and i learnt:
 
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-yellow)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
 
 ---
 
