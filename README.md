@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mattia Barbieri 
 
-Hi, I'm Mattia Barbieri, a 17 years old Software Engineer 🚀 from Italy, but I think of myself as a Technology Entusiast, Life-Long Learner !!
+Hi, I'm Mattia Barbieri, a 18 years old Software Engineer 🚀 from Italy, but I think of myself as a Technology Entusiast, Life-Long Learner !!
 
 ## Talking about me 💫
 I'm a Developer passionate about Coding and Videogames.
